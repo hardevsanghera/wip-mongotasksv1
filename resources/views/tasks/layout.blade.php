@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Nutanix CALM Demonstration</title>
+    <title>Nutanix Calm Demonstration</title>
     <link rel="shortcut icon" href="img/favicon.ico">
 
     <!-- Fonts -->
@@ -35,7 +35,7 @@
     <div id="calmgb" class="calm-background"></div>
     <div class="container">
         <div class="row text-center task-header">
-            <h2>Task Manager v12 Managed by Nutanix Calm</h2>
+            <h2>Task Manager v12.0</h2>
         </div>
     </div>
     @yield('content')
