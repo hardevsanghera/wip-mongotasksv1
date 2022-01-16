@@ -23,7 +23,7 @@
                         <!-- Add Task Button -->
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-6">
-                                <button type="submit" class="btn btn-default">
+                                <button type="submit" class="btn btn-default" style="background-color:rgb(172, 209, 71)">
                                     <i class="fa fa-btn fa-plus"></i>Add Task
                                 </button>
                             </div>
@@ -32,7 +32,7 @@
                 </div>
             </div>  
 <!--
-    <div class="row">
+    <div class="row"> 
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
                 <h2>Task Manager by Nutanix Calm</h2>
