@@ -17,7 +17,7 @@ $app = new Illuminate\Foundation\Application(
 );
  */
 $app = new Illuminate\Foundation\Application(
-    '/home/vagrant/code/wip-mongotasksv1' ?? dirname(__DIR__)
+    '/var/www/tasks' ?? dirname(__DIR__)
 );
 
 /*
