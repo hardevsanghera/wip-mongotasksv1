@@ -15,19 +15,19 @@
                         <!-- Task Name -->
                         <div class="form-group">
 
-                            <div class="col-sm-6">
+                            <div>
                                 <input type="text" name="name" class="form-control" placeholder="Task details" value="">
                             </div>
                         </div>
 
                         <!-- Add Task Button -->
-                        <div class="form-group">
-                            <div class="col-sm-offset-3 col-sm-6">
+                       
+                           
                                 <button type="submit" class="btn btn-default" style="background-color:rgb(172, 209, 71)">
                                     <i class="fa fa-btn fa-plus"></i>Add Task
                                 </button>
-                            </div>
-                        </div>
+                           
+                       
                     </form>
                 </div>
             </div>  
