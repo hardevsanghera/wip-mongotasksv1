@@ -18,7 +18,7 @@
     <style>
         body {
             font-family: 'Lato';
-            background-color: rgb(172, 209, 71);,
+            background-color: #005495;
         }
 
         .fa-btn {
@@ -35,7 +35,7 @@
     <div id="calmgb" class="calm-background"></div>
     <div class="container">
         <div class="row text-center task-header">
-            <h2>Task Manager v12 Managed by Nutanix CALM</h2><h2>[webserver IP: 162.199.94.65]</h2>
+            <h2>Task Manager v12 Managed by Nutanix CALM</h2>
         </div>
     </div>
     @yield('content')
