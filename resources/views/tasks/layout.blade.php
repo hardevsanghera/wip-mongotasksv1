@@ -35,7 +35,7 @@
     <div id="calmgb" class="calm-background"></div>
     <div class="container">
         <div class="row text-center task-header">
-            <h2>Task Manager v12.0</h2>
+            <h2 style="color:white;" >Task Manager v12 Managed by Nutanix Calm/Era</h2><h2 style="color:white;">[webserver IP: XXWEBSERVERIPXX]</h2></h2>
         </div>
     </div>
     @yield('content')
